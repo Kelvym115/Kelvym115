@@ -1,6 +1,6 @@
 ## Hi everyone!👋
 
-<p>I'm a DevOps from Brazil working on a lot of things, but my true passion will always be **games**. ❤️<br/>
+<p>I'm a DevOps from Brazil working on a lot of things, but my true passion will always be <b>games</b>. ❤️<br/>
 I was born to be a backend but I venture into frontend sometimes.</p>
 
 <p>Playstation, Nintendo64 and Dreamcast era are the apex of gaming graphics, change my mind.</p>
