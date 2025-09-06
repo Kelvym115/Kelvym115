@@ -1,6 +1,6 @@
 ## Hi everyone!👋
 
-<p>I'm a DevOps from Brazil working on a lot of things, but my true passion will always be <b>games</b>. ❤️<br/>
+<p>I'm a DevOps from Brazil working on a lot of things
 I was born to be a backend but I venture into frontend sometimes.</p>
 
 <p>Playstation, Nintendo64 and Dreamcast era are the apex of gaming graphics, change my mind.</p>
@@ -18,7 +18,7 @@ I was born to be a backend but I venture into frontend sometimes.</p>
 
   ### What I do
 
-  I do a little bit of everything actually. Working full time as CTO for 5+ years give me a lot of experience with DevOps. I'm a former frontend developer and game development hobbist, passionate about everything around programming and technologies. I'm actually studying AI, behaviour trees and game development in general.
+  I do a little bit of everything actually. Working full time as CTO / DevOps for 6+ years give me a lot of experience with DevOps. I'm a former frontend developer and game development hobbist, passionate about everything around programming and technologies. I'm actually studying AI, behaviour trees and game development in general.
 
   ## My skills 📜
   ### Frontend Development
