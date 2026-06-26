@@ -10,12 +10,6 @@ I also venture into frontend sometimes.</p>
   More stuff about me
 </summary>
 
-  ## Quick overview
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kelvym115&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats"     />
-  </a> 
-
   ### What I do
 
   I do a little bit of everything actually. Working full time as a hands-on CTO / DevOps / Cloud Platform Engineer / Full-Stack Engineer for 7+ years give me a lot of experience. I'm a former frontend developer and game development hobbist, passionate about everything around programming and technologies. I’m currently studying AI and how it can be applied to cloud platforms, especially using tools like Vertex AI, RAG, and LLM-based automation.
