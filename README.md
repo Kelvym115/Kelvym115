@@ -1,7 +1,7 @@
 ## Hi everyone!👋
 
-<p>I'm a DevOps from Brazil working on a lot of things
-I was born to be a backend but I venture into frontend sometimes.</p>
+<p>I'm a Senior Backend and Cloud Platform Engineer from Brazil!
+I also venture into frontend sometimes.</p>
 
 <p>Playstation, Nintendo64 and Dreamcast era are the apex of gaming graphics, change my mind.</p>
 
@@ -18,7 +18,7 @@ I was born to be a backend but I venture into frontend sometimes.</p>
 
   ### What I do
 
-  I do a little bit of everything actually. Working full time as CTO / DevOps for 6+ years give me a lot of experience with DevOps. I'm a former frontend developer and game development hobbist, passionate about everything around programming and technologies. I'm actually studying AI, behaviour trees and game development in general.
+  I do a little bit of everything actually. Working full time as a hands-on CTO / DevOps / Cloud Platform Engineer / Full-Stack Engineer for 7+ years give me a lot of experience. I'm a former frontend developer and game development hobbist, passionate about everything around programming and technologies. I’m currently studying AI and how it can be applied to cloud platforms, especially using tools like Vertex AI, RAG, and LLM-based automation.
 
   ## My skills 📜
   ### Frontend Development
@@ -36,17 +36,16 @@ I was born to be a backend but I venture into frontend sometimes.</p>
   - MySQL;
   - Python;
 
-  ### Game Development
-  - Unity;
-  - GoDot;
-
   ### Server
   - Linux Debian & CentOS;
   - FreeSWITCH (VoIP);
   - OpenSIPS (VoiP);
 
   ### Cloud
-  - AWS: EC2, RDS (MySQL & Aurora Serverless), DynamoDB, Redis, OpenSearch, S3, Route 53, Transcribe, Polly;
+  - AWS: EC2, RDS (MySQL & Aurora Serverless), DynamoDB, ElastiCache/Redis, OpenSearch, S3, Route 53, Lambda, Step Functions, Cognito, IAM, CloudWatch, CloudFront, Transcribe, Polly;
+  - GCP: Google Cloud Platform, Vertex AI, Gemini, BigQuery, Cloud Run, Cloud Functions, Cloud Storage, GKE, IAM, Pub/Sub, Cloud Logging, Cloud Monitoring;
+  - AI & Cloud Platforms: experience studying and building cloud-based AI solutions using LLMs, RAG architectures, AI agents, managed model endpoints, serverless workflows, and integrations with internal tools and APIs;
+  - Infrastructure & Automation: cloud infrastructure design, CI/CD pipelines, Infrastructure as Code, environment provisioning, deployment automation, observability, monitoring, and cost-aware architecture.
 
   ### Languages 🌐
   
@@ -57,9 +56,11 @@ I was born to be a backend but I venture into frontend sometimes.</p>
 
   ## What I'm currently learning 📚
   - English;
-  - Game Development (Alura);
-  - Node.js (Alura);
-  - Java (Alura);
+  - AI Engineering, LLMs, RAG, embeddings, and semantic search;
+  - Amazon Bedrock, Google Vertex AI, and cloud-based AI platforms;
+  - AI agents, tool calling, MCP servers, and workflow automation;
+  - AI security, guardrails, and safe integrations with internal tools;
+  - Practical AI applications for Cloud, DevOps, customer support, and platform engineering.
 
 </details>
 
